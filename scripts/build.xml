@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<project name="automate" default="run"
+    xmlns:monkeytalk="antlib:com.gorillalogic.monkeytalk.ant">
+    <target name="insert_monkey">
+        <exec dir="/Users/shibin/CI/scripts" executable="osascript">
+            <arg value="test_shibin.scpt"/>
+        </exec>
+        <monkeytalk:run agent="iOS" script="/Users/shibin/Documents/MonkeyTalk/myScript.mt" />
+    </target>
+    <target name="myScript">
+    </target>
+    
+</project>
