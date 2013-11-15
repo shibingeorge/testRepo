@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<detail  generated="2013-11-15 16:10:43.420 GMT+05:30" projectPath="/Users/shared/testRepo/monkeyTalk" agent="iOS v1.0.62_86 - 2013-10-31 13:06:16 MDT" runner="Runner v1.0.62_102 - 2013-10-31 13:07:42 MDT">
-    <script  comp="Script" id="testScript.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script testScript.mt Run %thinktime=500 %timeout=2000" idx="1" start="1384512039792" stop="1384512043391" duration="3.599" result="ok">
-        <cmd  comp="Input" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input * Tap %thinktime=500 %timeout=2000" idx="2" start="1384512039794" stop="1384512040597" duration="0.803" result="ok">
+<detail  generated="2013-11-15 16:26:13.719 GMT+05:30" projectPath="/Users/shared/testRepo/monkeyTalk" agent="iOS v1.0.62_86 - 2013-10-31 13:06:16 MDT" runner="Runner v1.0.62_102 - 2013-10-31 13:07:42 MDT">
+    <script  comp="Script" id="testScript.mt" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script testScript.mt Run %thinktime=500 %timeout=2000" idx="1" start="1384512970332" stop="1384512973712" duration="3.38" result="ok">
+        <cmd  comp="Input" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input * Tap %thinktime=500 %timeout=2000" idx="2" start="1384512970333" stop="1384512970963" duration="0.63" result="ok">
         </cmd>
-        <cmd  comp="Input" id="*" action="EnterText" args="hi" mods="%thinktime=500 %timeout=2000" raw="Input * EnterText hi %thinktime=500 %timeout=2000" idx="3" start="1384512040598" stop="1384512041301" duration="0.703" result="ok">
+        <cmd  comp="Input" id="*" action="EnterText" args="hi" mods="%thinktime=500 %timeout=2000" raw="Input * EnterText hi %thinktime=500 %timeout=2000" idx="3" start="1384512970964" stop="1384512971491" duration="0.527" result="ok">
         </cmd>
-        <cmd  comp="UIWindow" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWindow * Tap %thinktime=500 %timeout=2000" idx="4" start="1384512041304" stop="1384512041812" duration="0.508" result="ok">
+        <cmd  comp="UIWindow" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWindow * Tap %thinktime=500 %timeout=2000" idx="4" start="1384512971492" stop="1384512972001" duration="0.509" result="ok">
         </cmd>
-        <cmd  comp="Input" id="#2" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input #2 Tap %thinktime=500 %timeout=2000" idx="5" start="1384512041813" stop="1384512042325" duration="0.512" result="ok">
+        <cmd  comp="Input" id="#2" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input #2 Tap %thinktime=500 %timeout=2000" idx="5" start="1384512972002" stop="1384512972514" duration="0.512" result="ok">
         </cmd>
-        <cmd  comp="Input" id="#2" action="EnterText" args="there enter" mods="%thinktime=500 %timeout=2000" raw="Input #2 EnterText there enter %thinktime=500 %timeout=2000" idx="6" start="1384512042330" stop="1384512042841" duration="0.511" result="ok">
+        <cmd  comp="Input" id="#2" action="EnterText" args="there enter" mods="%thinktime=500 %timeout=2000" raw="Input #2 EnterText there enter %thinktime=500 %timeout=2000" idx="6" start="1384512972516" stop="1384512973187" duration="0.671" result="ok">
         </cmd>
-        <cmd  comp="UIWindow" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWindow * Tap %thinktime=500 %timeout=2000" idx="7" start="1384512042841" stop="1384512043360" duration="0.519" result="ok">
+        <cmd  comp="UIWindow" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWindow * Tap %thinktime=500 %timeout=2000" idx="7" start="1384512973188" stop="1384512973709" duration="0.521" result="ok">
         </cmd>
     </script>
 </detail>

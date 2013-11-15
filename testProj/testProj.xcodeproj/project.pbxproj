@@ -413,10 +413,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testProj/testProj-Prefix.pch";
 				INFOPLIST_FILE = "testProj copy-Info.plist";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					/Users/shibin/CI/testProj,
-				);
+				LIBRARY_SEARCH_PATHS = /Users/shared/testRepo/testProj;
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_NAME = "testProj copy";
 				WRAPPER_EXTENSION = app;
@@ -431,10 +428,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "testProj/testProj-Prefix.pch";
 				INFOPLIST_FILE = "testProj copy-Info.plist";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					/Users/shibin/CI/testProj,
-				);
+				LIBRARY_SEARCH_PATHS = /Users/shared/testRepo/testProj;
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_NAME = "testProj copy";
 				WRAPPER_EXTENSION = app;
@@ -460,6 +454,7 @@
 				C8E7F5551834ABCE00075C9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C8E7F5661834ABDF00075C9E /* Build configuration list for PBXNativeTarget "testProjMonkey" */ = {
 			isa = XCConfigurationList;
