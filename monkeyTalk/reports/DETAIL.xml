@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<detail  generated="2013-11-15 16:08:26.803 GMT+05:30" projectPath="/Users/Shared/testRepo/monkeyTalk" agent="iOS v1.0.62_86 - 2013-10-31 13:06:16 MDT" runner="MonkeyTalk IDE v1.0.62_102 - 2013-10-31 13:07:42 MDT">
+    <script  comp="Script" id="ide" action="Run" mods="%thinktime=500 %timeout=2000" raw="Script ide Run %thinktime=500 %timeout=2000" idx="1" start="1384511903468" stop="1384511906734" duration="3.266" result="ok">
+        <cmd  comp="Input" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input * Tap %thinktime=500 %timeout=2000" idx="2" start="1384511903469" stop="1384511903997" duration="0.528" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="*" action="EnterText" args="hi" mods="%thinktime=500 %timeout=2000" raw="Input * EnterText hi %thinktime=500 %timeout=2000" idx="3" start="1384511903997" stop="1384511904563" duration="0.566" result="ok">
+        </cmd>
+        <cmd  comp="UIWindow" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWindow * Tap %thinktime=500 %timeout=2000" idx="4" start="1384511904564" stop="1384511905095" duration="0.531" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="#2" action="Tap" mods="%thinktime=500 %timeout=2000" raw="Input #2 Tap %thinktime=500 %timeout=2000" idx="5" start="1384511905095" stop="1384511905661" duration="0.566" result="ok">
+        </cmd>
+        <cmd  comp="Input" id="#2" action="EnterText" args="there enter" mods="%thinktime=500 %timeout=2000" raw="Input #2 EnterText there enter %thinktime=500 %timeout=2000" idx="6" start="1384511905662" stop="1384511906187" duration="0.525" result="ok">
+        </cmd>
+        <cmd  comp="UIWindow" id="*" action="Tap" mods="%thinktime=500 %timeout=2000" raw="UIWindow * Tap %thinktime=500 %timeout=2000" idx="7" start="1384511906187" stop="1384511906731" duration="0.544" result="ok">
+        </cmd>
+    </script>
+</detail>
